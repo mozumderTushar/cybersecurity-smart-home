@@ -1,4 +1,4 @@
-![Cybersecurity]([https://i.ibb.co/HxMsvTD/Capture.png](https://i.ibb.co/dkM1JV9/Screenshot-2024-08-01-at-11-03-30-PM.png])
+![MANTEX](https://ibb.co/h29h145)
 
 # Cybersecurity Threats for Smart-Home: An Experimental Analysis
 
