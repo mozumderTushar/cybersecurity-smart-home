@@ -1,4 +1,4 @@
-![MANTEX](https://ibb.co/h29h145)
+![Cybersecurity](Intro.png)
 
 # Cybersecurity Threats for Smart-Home: An Experimental Analysis
 
